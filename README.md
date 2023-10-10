@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/121488331/223544853-2f1d8c44-b7a0-4039-a426-9806298192be.png" width="100%" height="300" alt="banner">
+
 <h1 align="center">Hi 👋, I'm Kajal Yadav</h1>
 <h3 align="center">A passionate Mern Stack Developer from India</h3>
 
